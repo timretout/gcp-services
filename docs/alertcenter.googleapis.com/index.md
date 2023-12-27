@@ -1,9 +1,9 @@
-# alertcenter.googleapis.com
+## alertcenter.googleapis.com
 
-## Automatically enabled services
+### Automatically enabled services
 
 None
 
-## Reverse dependencies
+### Reverse dependencies
 
 None

@@ -1,10 +1,10 @@
-# storage-component.googleapis.com
+## storage-component.googleapis.com
 
-## Automatically enabled services
+### Automatically enabled services
 
 None
 
-## Reverse dependencies
+### Reverse dependencies
 
 * [appengineflex.googleapis.com](../appengineflex.googleapis.com/)
 * [automl.googleapis.com](../automl.googleapis.com/)

@@ -1,6 +1,6 @@
-# composer.googleapis.com
+## composer.googleapis.com
 
-## Automatically enabled services
+### Automatically enabled services
 
 * [artifactregistry.googleapis.com](../artifactregistry.googleapis.com/)
 * [autoscaling.googleapis.com](../autoscaling.googleapis.com/)
@@ -27,6 +27,6 @@
 * [storage-api.googleapis.com](../storage-api.googleapis.com/)
 * [storage-component.googleapis.com](../storage-component.googleapis.com/)
 
-## Reverse dependencies
+### Reverse dependencies
 
 None

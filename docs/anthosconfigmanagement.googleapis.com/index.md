@@ -1,10 +1,10 @@
-# anthosconfigmanagement.googleapis.com
+## anthosconfigmanagement.googleapis.com
 
-## Automatically enabled services
+### Automatically enabled services
 
 * [anthospolicycontroller.googleapis.com](../anthospolicycontroller.googleapis.com/)
 
-## Reverse dependencies
+### Reverse dependencies
 
 * [config.googleapis.com](../config.googleapis.com/)
 * [krmapihosting.googleapis.com](../krmapihosting.googleapis.com/)

@@ -1,9 +1,9 @@
-# mybusinessqanda.googleapis.com
+## mybusinessqanda.googleapis.com
 
-## Automatically enabled services
+### Automatically enabled services
 
 None
 
-## Reverse dependencies
+### Reverse dependencies
 
 None

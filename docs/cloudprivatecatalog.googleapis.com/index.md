@@ -1,9 +1,9 @@
-# cloudprivatecatalog.googleapis.com
+## cloudprivatecatalog.googleapis.com
 
-## Automatically enabled services
+### Automatically enabled services
 
 * [deploymentmanager.googleapis.com](../deploymentmanager.googleapis.com/)
 
-## Reverse dependencies
+### Reverse dependencies
 
 None

@@ -1,6 +1,6 @@
-# dataproc.googleapis.com
+## dataproc.googleapis.com
 
-## Automatically enabled services
+### Automatically enabled services
 
 * [compute.googleapis.com](../compute.googleapis.com/)
 * [dataproc-control.googleapis.com](../dataproc-control.googleapis.com/)
@@ -8,6 +8,6 @@
 * [storage-api.googleapis.com](../storage-api.googleapis.com/)
 * [storage-component.googleapis.com](../storage-component.googleapis.com/)
 
-## Reverse dependencies
+### Reverse dependencies
 
 * [datafusion.googleapis.com](../datafusion.googleapis.com/)

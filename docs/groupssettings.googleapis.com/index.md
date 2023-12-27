@@ -1,9 +1,9 @@
-# groupssettings.googleapis.com
+## groupssettings.googleapis.com
 
-## Automatically enabled services
+### Automatically enabled services
 
 None
 
-## Reverse dependencies
+### Reverse dependencies
 
 None

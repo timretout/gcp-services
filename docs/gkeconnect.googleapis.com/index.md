@@ -1,11 +1,11 @@
-# gkeconnect.googleapis.com
+## gkeconnect.googleapis.com
 
-## Automatically enabled services
+### Automatically enabled services
 
 * [gkehub.googleapis.com](../gkehub.googleapis.com/)
 * [multiclustermetering.googleapis.com](../multiclustermetering.googleapis.com/)
 
-## Reverse dependencies
+### Reverse dependencies
 
 * [anthos.googleapis.com](../anthos.googleapis.com/)
 * [config.googleapis.com](../config.googleapis.com/)

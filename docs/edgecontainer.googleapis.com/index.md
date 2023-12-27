@@ -1,6 +1,6 @@
-# edgecontainer.googleapis.com
+## edgecontainer.googleapis.com
 
-## Automatically enabled services
+### Automatically enabled services
 
 * [anthos.googleapis.com](../anthos.googleapis.com/)
 * [artifactregistry.googleapis.com](../artifactregistry.googleapis.com/)
@@ -26,6 +26,6 @@
 * [pubsub.googleapis.com](../pubsub.googleapis.com/)
 * [storage-api.googleapis.com](../storage-api.googleapis.com/)
 
-## Reverse dependencies
+### Reverse dependencies
 
 None

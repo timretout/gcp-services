@@ -1,10 +1,10 @@
-# translate.googleapis.com
+## translate.googleapis.com
 
-## Automatically enabled services
+### Automatically enabled services
 
 None
 
-## Reverse dependencies
+### Reverse dependencies
 
 * [automl.googleapis.com](../automl.googleapis.com/)
 * [translationhub.googleapis.com](../translationhub.googleapis.com/)

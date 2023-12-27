@@ -1,11 +1,11 @@
-# containerregistry.googleapis.com
+## containerregistry.googleapis.com
 
-## Automatically enabled services
+### Automatically enabled services
 
 * [pubsub.googleapis.com](../pubsub.googleapis.com/)
 * [storage-api.googleapis.com](../storage-api.googleapis.com/)
 
-## Reverse dependencies
+### Reverse dependencies
 
 * [anthos.googleapis.com](../anthos.googleapis.com/)
 * [appengineflex.googleapis.com](../appengineflex.googleapis.com/)

@@ -1,9 +1,9 @@
-# translationhub.googleapis.com
+## translationhub.googleapis.com
 
-## Automatically enabled services
+### Automatically enabled services
 
 * [translate.googleapis.com](../translate.googleapis.com/)
 
-## Reverse dependencies
+### Reverse dependencies
 
 None

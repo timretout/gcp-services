@@ -1,9 +1,9 @@
-# admin.googleapis.com
+## admin.googleapis.com
 
-## Automatically enabled services
+### Automatically enabled services
 
 None
 
-## Reverse dependencies
+### Reverse dependencies
 
 * [composer.googleapis.com](../composer.googleapis.com/)

@@ -1,9 +1,9 @@
-# drivelabels.googleapis.com
+## drivelabels.googleapis.com
 
-## Automatically enabled services
+### Automatically enabled services
 
 None
 
-## Reverse dependencies
+### Reverse dependencies
 
 None

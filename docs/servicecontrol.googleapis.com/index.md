@@ -1,9 +1,9 @@
-# servicecontrol.googleapis.com
+## servicecontrol.googleapis.com
 
-## Automatically enabled services
+### Automatically enabled services
 
 None
 
-## Reverse dependencies
+### Reverse dependencies
 
 * [endpoints.googleapis.com](../endpoints.googleapis.com/)

@@ -1,10 +1,10 @@
-# firebase.googleapis.com
+## firebase.googleapis.com
 
-## Automatically enabled services
+### Automatically enabled services
 
 None
 
-## Reverse dependencies
+### Reverse dependencies
 
 * [firebaseextensions.googleapis.com](../firebaseextensions.googleapis.com/)
 * [firebasehosting.googleapis.com](../firebasehosting.googleapis.com/)
