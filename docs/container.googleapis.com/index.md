@@ -27,6 +27,7 @@
 * [composer.googleapis.com](../composer.googleapis.com/)
 * [config.googleapis.com](../config.googleapis.com/)
 * [datafusion.googleapis.com](../datafusion.googleapis.com/)
+* [edgecontainer.googleapis.com](../edgecontainer.googleapis.com/)
 * [file.googleapis.com](../file.googleapis.com/)
 * [krmapihosting.googleapis.com](../krmapihosting.googleapis.com/)
 * [memcache.googleapis.com](../memcache.googleapis.com/)
