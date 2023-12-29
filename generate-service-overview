@@ -5,7 +5,9 @@ service=$1
 echo "## $service
 " > docs/$service/index.md
 
-echo "### Automatically enabled services
+echo "### Dependencies
+
+#### Automatically enabled services
 " >> docs/$service/index.md
 
 deps=$(cat build/$service/automatically-enabled-services.csv)
@@ -19,7 +21,7 @@ if [ -z "$deps" ]; then
 fi
 
 echo "
-### Reverse dependencies
+#### Reverse dependencies
 " >> docs/$service/index.md
 
 revdeps=$(grep -l $service build/*/automatically-enabled-services.csv | sed 's/build\///;s/\/automatically-enabled-services.csv//')
