@@ -5,6 +5,14 @@ service=$1
 echo "## $service
 " > docs/$service/index.md
 
+if [ -s build/$service/apis.tsv ]; then
+    echo "### APIs
+" >> docs/$service/index.md
+
+    awk -F"\t" '{print "* [",$1,"](",$2,")"}' < build/$service/apis.tsv >> docs/$service/index.md
+    echo >> docs/$service/index.md
+fi
+
 echo "### Dependencies
 
 #### Automatically enabled services
