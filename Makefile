@@ -6,6 +6,9 @@ build/gcloud-services-list-available.csv:
 	mkdir -p build
 	gcloud services list --available --format='csv(config.name,config.title)' > $@
 
+docs/index.md: build/gcloud-services-list-available.csv
+	./generate-index
+
 docs/%/index.md: build/%/automatically-enabled-services.csv
 	./generate-service-overview $*
 

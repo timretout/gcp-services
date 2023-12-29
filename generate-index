@@ -1,0 +1,10 @@
+#!/bin/bash
+
+echo "# gcp-services
+" > docs/index.md
+
+services=$(awk -F, '{print $1}' build/gcloud-services-list-available.csv | grep 'googleapis.com$')
+
+for i in $services; do
+    echo "* [$i](./$i/)" >> docs/index.md
+done
