@@ -1,0 +1,7 @@
+#!/bin/bash
+
+services=$(gcloud services list --format='value(config.name)')
+
+for i in $services; do
+    gcloud -q services disable $i --force
+done

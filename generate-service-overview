@@ -1,0 +1,33 @@
+#!/bin/bash
+
+service=$1
+
+echo "## $service
+" > docs/$service/index.md
+
+echo "### Automatically enabled services
+" >> docs/$service/index.md
+
+deps=$(cat build/$service/automatically-enabled-services.csv)
+
+for i in $deps; do
+    echo "* [$i](../$i/)" >> docs/$service/index.md
+done
+
+if [ -z "$deps" ]; then
+    echo "None" >> docs/$service/index.md
+fi
+
+echo "
+### Reverse dependencies
+" >> docs/$service/index.md
+
+revdeps=$(grep -l $service build/*/automatically-enabled-services.csv | sed 's/build\///;s/\/automatically-enabled-services.csv//')
+
+for i in $revdeps; do
+    echo "* [$i](../$i/)" >> docs/$service/index.md
+done
+
+if [ -z "$revdeps" ]; then
+    echo "None" >> docs/$service/index.md
+fi
