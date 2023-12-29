@@ -1,6 +1,6 @@
 services != awk -F, '{print $$1}' build/gcloud-services-list-available.csv | grep 'googleapis\.com' | sed 's/^/docs\//;s/$$/\/index.md/'
 
-all: build/gcloud-services-list-available.csv $(services)
+all: build/gcloud-services-list-available.csv $(services) docs/index.md
 
 build/gcloud-services-list-available.csv:
 	mkdir -p build
