@@ -1,5 +1,10 @@
 ## dns.googleapis.com
 
+### APIs
+
+* [ dns:v1beta2 ]( https://dns.googleapis.com/$discovery/rest?version=v1beta2 )
+* [ dns:v1 ]( https://dns.googleapis.com/$discovery/rest?version=v1 )
+
 ### Dependencies
 
 #### Automatically enabled services

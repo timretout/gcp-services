@@ -1,5 +1,9 @@
 ## clouddeploy.googleapis.com
 
+### APIs
+
+* [ clouddeploy:v1 ]( https://clouddeploy.googleapis.com/$discovery/rest?version=v1 )
+
 ### Dependencies
 
 #### Automatically enabled services

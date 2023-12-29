@@ -1,5 +1,9 @@
 ## iamcredentials.googleapis.com
 
+### APIs
+
+* [ iamcredentials:v1 ]( https://iamcredentials.googleapis.com/$discovery/rest?version=v1 )
+
 ### Dependencies
 
 #### Automatically enabled services

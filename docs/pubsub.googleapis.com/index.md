@@ -1,5 +1,11 @@
 ## pubsub.googleapis.com
 
+### APIs
+
+* [ pubsub:v1beta1a ]( https://pubsub.googleapis.com/$discovery/rest?version=v1beta1a )
+* [ pubsub:v1beta2 ]( https://pubsub.googleapis.com/$discovery/rest?version=v1beta2 )
+* [ pubsub:v1 ]( https://pubsub.googleapis.com/$discovery/rest?version=v1 )
+
 ### Dependencies
 
 #### Automatically enabled services

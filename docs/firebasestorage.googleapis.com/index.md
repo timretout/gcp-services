@@ -1,5 +1,9 @@
 ## firebasestorage.googleapis.com
 
+### APIs
+
+* [ firebasestorage:v1beta ]( https://firebasestorage.googleapis.com/$discovery/rest?version=v1beta )
+
 ### Dependencies
 
 #### Automatically enabled services

@@ -1,5 +1,10 @@
 ## redis.googleapis.com
 
+### APIs
+
+* [ redis:v1beta1 ]( https://redis.googleapis.com/$discovery/rest?version=v1beta1 )
+* [ redis:v1 ]( https://redis.googleapis.com/$discovery/rest?version=v1 )
+
 ### Dependencies
 
 #### Automatically enabled services

@@ -1,5 +1,11 @@
 ## cloudtrace.googleapis.com
 
+### APIs
+
+* [ cloudtrace:v2beta1 ]( https://cloudtrace.googleapis.com/$discovery/rest?version=v2beta1 )
+* [ cloudtrace:v1 ]( https://cloudtrace.googleapis.com/$discovery/rest?version=v1 )
+* [ cloudtrace:v2 ]( https://cloudtrace.googleapis.com/$discovery/rest?version=v2 )
+
 ### Dependencies
 
 #### Automatically enabled services

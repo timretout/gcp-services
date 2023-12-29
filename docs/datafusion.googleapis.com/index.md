@@ -1,5 +1,10 @@
 ## datafusion.googleapis.com
 
+### APIs
+
+* [ datafusion:v1beta1 ]( https://datafusion.googleapis.com/$discovery/rest?version=v1beta1 )
+* [ datafusion:v1 ]( https://datafusion.googleapis.com/$discovery/rest?version=v1 )
+
 ### Dependencies
 
 #### Automatically enabled services

@@ -1,5 +1,9 @@
 ## batch.googleapis.com
 
+### APIs
+
+* [ batch:v1 ]( https://batch.googleapis.com/$discovery/rest?version=v1 )
+
 ### Dependencies
 
 #### Automatically enabled services

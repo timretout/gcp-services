@@ -1,5 +1,9 @@
 ## logging.googleapis.com
 
+### APIs
+
+* [ logging:v2 ]( https://logging.googleapis.com/$discovery/rest?version=v2 )
+
 ### Dependencies
 
 #### Automatically enabled services

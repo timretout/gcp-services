@@ -1,5 +1,10 @@
 ## cloudbuild.googleapis.com
 
+### APIs
+
+* [ cloudbuild:v1 ]( https://cloudbuild.googleapis.com/$discovery/rest?version=v1 )
+* [ cloudbuild:v2 ]( https://cloudbuild.googleapis.com/$discovery/rest?version=v2 )
+
 ### Dependencies
 
 #### Automatically enabled services

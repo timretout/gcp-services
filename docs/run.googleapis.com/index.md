@@ -1,5 +1,10 @@
 ## run.googleapis.com
 
+### APIs
+
+* [ run:v1 ]( https://run.googleapis.com/$discovery/rest?version=v1 )
+* [ run:v2 ]( https://run.googleapis.com/$discovery/rest?version=v2 )
+
 ### Dependencies
 
 #### Automatically enabled services

@@ -1,5 +1,10 @@
 ## file.googleapis.com
 
+### APIs
+
+* [ file:v1beta1 ]( https://file.googleapis.com/$discovery/rest?version=v1beta1 )
+* [ file:v1 ]( https://file.googleapis.com/$discovery/rest?version=v1 )
+
 ### Dependencies
 
 #### Automatically enabled services

@@ -1,5 +1,11 @@
 ## deploymentmanager.googleapis.com
 
+### APIs
+
+* [ deploymentmanager:alpha ]( https://deploymentmanager.googleapis.com/$discovery/rest?version=alpha )
+* [ deploymentmanager:v2beta ]( https://deploymentmanager.googleapis.com/$discovery/rest?version=v2beta )
+* [ deploymentmanager:v2 ]( https://deploymentmanager.googleapis.com/$discovery/rest?version=v2 )
+
 ### Dependencies
 
 #### Automatically enabled services

@@ -1,5 +1,11 @@
 ## artifactregistry.googleapis.com
 
+### APIs
+
+* [ artifactregistry:v1beta1 ]( https://artifactregistry.googleapis.com/$discovery/rest?version=v1beta1 )
+* [ artifactregistry:v1beta2 ]( https://artifactregistry.googleapis.com/$discovery/rest?version=v1beta2 )
+* [ artifactregistry:v1 ]( https://artifactregistry.googleapis.com/$discovery/rest?version=v1 )
+
 ### Dependencies
 
 #### Automatically enabled services

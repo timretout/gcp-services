@@ -1,5 +1,9 @@
 ## workloadmanager.googleapis.com
 
+### APIs
+
+* [ workloadmanager:v1 ]( https://workloadmanager.googleapis.com/$discovery/rest?version=v1 )
+
 ### Dependencies
 
 #### Automatically enabled services

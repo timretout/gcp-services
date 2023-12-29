@@ -1,5 +1,11 @@
 ## iam.googleapis.com
 
+### APIs
+
+* [ iam:v2beta ]( https://iam.googleapis.com/$discovery/rest?version=v2beta )
+* [ iam:v1 ]( https://iam.googleapis.com/$discovery/rest?version=v1 )
+* [ iam:v2 ]( https://iam.googleapis.com/$discovery/rest?version=v2 )
+
 ### Dependencies
 
 #### Automatically enabled services

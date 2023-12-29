@@ -1,5 +1,10 @@
 ## binaryauthorization.googleapis.com
 
+### APIs
+
+* [ binaryauthorization:v1beta1 ]( https://binaryauthorization.googleapis.com/$discovery/rest?version=v1beta1 )
+* [ binaryauthorization:v1 ]( https://binaryauthorization.googleapis.com/$discovery/rest?version=v1 )
+
 ### Dependencies
 
 #### Automatically enabled services

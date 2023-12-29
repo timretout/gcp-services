@@ -1,5 +1,10 @@
 ## networkservices.googleapis.com
 
+### APIs
+
+* [ networkservices:v1beta1 ]( https://networkservices.googleapis.com/$discovery/rest?version=v1beta1 )
+* [ networkservices:v1 ]( https://networkservices.googleapis.com/$discovery/rest?version=v1 )
+
 ### Dependencies
 
 #### Automatically enabled services

@@ -1,5 +1,9 @@
 ## bigquery.googleapis.com
 
+### APIs
+
+* [ bigquery:v2 ]( https://bigquery.googleapis.com/$discovery/rest?version=v2 )
+
 ### Dependencies
 
 #### Automatically enabled services

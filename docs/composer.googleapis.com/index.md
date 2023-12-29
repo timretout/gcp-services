@@ -1,5 +1,10 @@
 ## composer.googleapis.com
 
+### APIs
+
+* [ composer:v1beta1 ]( https://composer.googleapis.com/$discovery/rest?version=v1beta1 )
+* [ composer:v1 ]( https://composer.googleapis.com/$discovery/rest?version=v1 )
+
 ### Dependencies
 
 #### Automatically enabled services

@@ -1,5 +1,9 @@
 ## dataflow.googleapis.com
 
+### APIs
+
+* [ dataflow:v1b3 ]( https://dataflow.googleapis.com/$discovery/rest?version=v1b3 )
+
 ### Dependencies
 
 #### Automatically enabled services

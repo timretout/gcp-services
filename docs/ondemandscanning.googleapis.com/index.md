@@ -1,5 +1,10 @@
 ## ondemandscanning.googleapis.com
 
+### APIs
+
+* [ ondemandscanning:v1beta1 ]( https://ondemandscanning.googleapis.com/$discovery/rest?version=v1beta1 )
+* [ ondemandscanning:v1 ]( https://ondemandscanning.googleapis.com/$discovery/rest?version=v1 )
+
 ### Dependencies
 
 #### Automatically enabled services

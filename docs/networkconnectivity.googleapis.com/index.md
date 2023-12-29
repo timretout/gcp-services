@@ -1,5 +1,10 @@
 ## networkconnectivity.googleapis.com
 
+### APIs
+
+* [ networkconnectivity:v1alpha1 ]( https://networkconnectivity.googleapis.com/$discovery/rest?version=v1alpha1 )
+* [ networkconnectivity:v1 ]( https://networkconnectivity.googleapis.com/$discovery/rest?version=v1 )
+
 ### Dependencies
 
 #### Automatically enabled services

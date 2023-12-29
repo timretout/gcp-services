@@ -1,5 +1,10 @@
 ## workstations.googleapis.com
 
+### APIs
+
+* [ workstations:v1beta ]( https://workstations.googleapis.com/$discovery/rest?version=v1beta )
+* [ workstations:v1 ]( https://workstations.googleapis.com/$discovery/rest?version=v1 )
+
 ### Dependencies
 
 #### Automatically enabled services

@@ -1,5 +1,12 @@
 ## tpu.googleapis.com
 
+### APIs
+
+* [ tpu:v1alpha1 ]( https://tpu.googleapis.com/$discovery/rest?version=v1alpha1 )
+* [ tpu:v2alpha1 ]( https://tpu.googleapis.com/$discovery/rest?version=v2alpha1 )
+* [ tpu:v1 ]( https://tpu.googleapis.com/$discovery/rest?version=v1 )
+* [ tpu:v2 ]( https://tpu.googleapis.com/$discovery/rest?version=v2 )
+
 ### Dependencies
 
 #### Automatically enabled services

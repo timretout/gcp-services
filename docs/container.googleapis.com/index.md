@@ -1,5 +1,10 @@
 ## container.googleapis.com
 
+### APIs
+
+* [ container:v1beta1 ]( https://container.googleapis.com/$discovery/rest?version=v1beta1 )
+* [ container:v1 ]( https://container.googleapis.com/$discovery/rest?version=v1 )
+
 ### Dependencies
 
 #### Automatically enabled services

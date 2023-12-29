@@ -1,5 +1,10 @@
 ## memcache.googleapis.com
 
+### APIs
+
+* [ memcache:v1beta2 ]( https://memcache.googleapis.com/$discovery/rest?version=v1beta2 )
+* [ memcache:v1 ]( https://memcache.googleapis.com/$discovery/rest?version=v1 )
+
 ### Dependencies
 
 #### Automatically enabled services

@@ -1,5 +1,11 @@
 ## compute.googleapis.com
 
+### APIs
+
+* [ compute:alpha ]( https://www.googleapis.com/discovery/v1/apis/compute/alpha/rest )
+* [ compute:beta ]( https://www.googleapis.com/discovery/v1/apis/compute/beta/rest )
+* [ compute:v1 ]( https://www.googleapis.com/discovery/v1/apis/compute/v1/rest )
+
 ### Dependencies
 
 #### Automatically enabled services

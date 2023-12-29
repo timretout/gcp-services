@@ -1,5 +1,14 @@
 ## gkehub.googleapis.com
 
+### APIs
+
+* [ gkehub:v1alpha ]( https://gkehub.googleapis.com/$discovery/rest?version=v1alpha )
+* [ gkehub:v1alpha2 ]( https://gkehub.googleapis.com/$discovery/rest?version=v1alpha2 )
+* [ gkehub:v2alpha ]( https://gkehub.googleapis.com/$discovery/rest?version=v2alpha )
+* [ gkehub:v1beta ]( https://gkehub.googleapis.com/$discovery/rest?version=v1beta )
+* [ gkehub:v1beta1 ]( https://gkehub.googleapis.com/$discovery/rest?version=v1beta1 )
+* [ gkehub:v1 ]( https://gkehub.googleapis.com/$discovery/rest?version=v1 )
+
 ### Dependencies
 
 #### Automatically enabled services

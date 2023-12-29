@@ -1,5 +1,9 @@
 ## dataproc.googleapis.com
 
+### APIs
+
+* [ dataproc:v1 ]( https://dataproc.googleapis.com/$discovery/rest?version=v1 )
+
 ### Dependencies
 
 #### Automatically enabled services

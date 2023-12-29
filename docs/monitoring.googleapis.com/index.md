@@ -1,5 +1,10 @@
 ## monitoring.googleapis.com
 
+### APIs
+
+* [ monitoring:v1 ]( https://monitoring.googleapis.com/$discovery/rest?version=v1 )
+* [ monitoring:v3 ]( https://monitoring.googleapis.com/$discovery/rest?version=v3 )
+
 ### Dependencies
 
 #### Automatically enabled services

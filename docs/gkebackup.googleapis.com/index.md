@@ -1,5 +1,9 @@
 ## gkebackup.googleapis.com
 
+### APIs
+
+* [ gkebackup:v1 ]( https://gkebackup.googleapis.com/$discovery/rest?version=v1 )
+
 ### Dependencies
 
 #### Automatically enabled services

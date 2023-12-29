@@ -1,5 +1,11 @@
 ## oslogin.googleapis.com
 
+### APIs
+
+* [ oslogin:v1alpha ]( https://oslogin.googleapis.com/$discovery/rest?version=v1alpha )
+* [ oslogin:v1beta ]( https://oslogin.googleapis.com/$discovery/rest?version=v1beta )
+* [ oslogin:v1 ]( https://oslogin.googleapis.com/$discovery/rest?version=v1 )
+
 ### Dependencies
 
 #### Automatically enabled services
