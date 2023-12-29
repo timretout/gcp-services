@@ -1,6 +1,8 @@
 ## automl.googleapis.com
 
-### Automatically enabled services
+### Dependencies
+
+#### Automatically enabled services
 
 * [language.googleapis.com](../language.googleapis.com/)
 * [storage-api.googleapis.com](../storage-api.googleapis.com/)
@@ -8,6 +10,6 @@
 * [translate.googleapis.com](../translate.googleapis.com/)
 * [vision.googleapis.com](../vision.googleapis.com/)
 
-### Reverse dependencies
+#### Reverse dependencies
 
 None

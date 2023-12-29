@@ -1,9 +1,11 @@
 ## rapidmigrationassessment.googleapis.com
 
-### Automatically enabled services
+### Dependencies
+
+#### Automatically enabled services
 
 * [migrationcenter.googleapis.com](../migrationcenter.googleapis.com/)
 
-### Reverse dependencies
+#### Reverse dependencies
 
 None

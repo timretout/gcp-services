@@ -1,9 +1,11 @@
 ## source.googleapis.com
 
-### Automatically enabled services
+### Dependencies
+
+#### Automatically enabled services
 
 None
 
-### Reverse dependencies
+#### Reverse dependencies
 
 * [cloudfunctions.googleapis.com](../cloudfunctions.googleapis.com/)

@@ -1,6 +1,8 @@
 ## config.googleapis.com
 
-### Automatically enabled services
+### Dependencies
+
+#### Automatically enabled services
 
 * [anthosconfigmanagement.googleapis.com](../anthosconfigmanagement.googleapis.com/)
 * [anthospolicycontroller.googleapis.com](../anthospolicycontroller.googleapis.com/)
@@ -33,7 +35,7 @@
 * [storage-component.googleapis.com](../storage-component.googleapis.com/)
 * [storage.googleapis.com](../storage.googleapis.com/)
 
-### Reverse dependencies
+#### Reverse dependencies
 
 * [mesh.googleapis.com](../mesh.googleapis.com/)
 * [workloadmanager.googleapis.com](../workloadmanager.googleapis.com/)

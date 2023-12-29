@@ -1,11 +1,13 @@
 ## bigquery.googleapis.com
 
-### Automatically enabled services
+### Dependencies
+
+#### Automatically enabled services
 
 * [bigquerymigration.googleapis.com](../bigquerymigration.googleapis.com/)
 * [bigquerystorage.googleapis.com](../bigquerystorage.googleapis.com/)
 
-### Reverse dependencies
+#### Reverse dependencies
 
 * [anthos.googleapis.com](../anthos.googleapis.com/)
 * [bigquerystorage.googleapis.com](../bigquerystorage.googleapis.com/)

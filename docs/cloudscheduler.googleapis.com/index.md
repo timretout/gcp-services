@@ -1,9 +1,11 @@
 ## cloudscheduler.googleapis.com
 
-### Automatically enabled services
+### Dependencies
+
+#### Automatically enabled services
 
 * [cloudtrace.googleapis.com](../cloudtrace.googleapis.com/)
 
-### Reverse dependencies
+#### Reverse dependencies
 
 None

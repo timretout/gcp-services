@@ -1,9 +1,11 @@
 ## ml.googleapis.com
 
-### Automatically enabled services
+### Dependencies
+
+#### Automatically enabled services
 
 * [logging.googleapis.com](../logging.googleapis.com/)
 
-### Reverse dependencies
+#### Reverse dependencies
 
 None

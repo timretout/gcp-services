@@ -1,9 +1,11 @@
 ## firebaseinappmessaging.googleapis.com
 
-### Automatically enabled services
+### Dependencies
+
+#### Automatically enabled services
 
 * [firebaseinstallations.googleapis.com](../firebaseinstallations.googleapis.com/)
 
-### Reverse dependencies
+#### Reverse dependencies
 
 None

@@ -1,9 +1,11 @@
 ## firestore.googleapis.com
 
-### Automatically enabled services
+### Dependencies
+
+#### Automatically enabled services
 
 * [firebaserules.googleapis.com](../firebaserules.googleapis.com/)
 
-### Reverse dependencies
+#### Reverse dependencies
 
 None

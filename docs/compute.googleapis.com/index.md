@@ -1,10 +1,12 @@
 ## compute.googleapis.com
 
-### Automatically enabled services
+### Dependencies
+
+#### Automatically enabled services
 
 * [oslogin.googleapis.com](../oslogin.googleapis.com/)
 
-### Reverse dependencies
+#### Reverse dependencies
 
 * [anthos.googleapis.com](../anthos.googleapis.com/)
 * [appengineflex.googleapis.com](../appengineflex.googleapis.com/)

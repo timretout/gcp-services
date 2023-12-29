@@ -1,9 +1,11 @@
 ## datastore.googleapis.com
 
-### Automatically enabled services
+### Dependencies
+
+#### Automatically enabled services
 
 None
 
-### Reverse dependencies
+#### Reverse dependencies
 
 * [cloudapis.googleapis.com](../cloudapis.googleapis.com/)

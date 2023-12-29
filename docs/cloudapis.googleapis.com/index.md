@@ -1,6 +1,8 @@
 ## cloudapis.googleapis.com
 
-### Automatically enabled services
+### Dependencies
+
+#### Automatically enabled services
 
 * [bigquery.googleapis.com](../bigquery.googleapis.com/)
 * [bigquerymigration.googleapis.com](../bigquerymigration.googleapis.com/)
@@ -16,6 +18,6 @@
 * [storage-component.googleapis.com](../storage-component.googleapis.com/)
 * [storage.googleapis.com](../storage.googleapis.com/)
 
-### Reverse dependencies
+#### Reverse dependencies
 
 None

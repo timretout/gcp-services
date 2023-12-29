@@ -1,9 +1,11 @@
 ## eventarcpublishing.googleapis.com
 
-### Automatically enabled services
+### Dependencies
+
+#### Automatically enabled services
 
 * [eventarc.googleapis.com](../eventarc.googleapis.com/)
 
-### Reverse dependencies
+#### Reverse dependencies
 
 None

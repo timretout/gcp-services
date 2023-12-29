@@ -1,9 +1,11 @@
 ## apphub.googleapis.com
 
-### Automatically enabled services
+### Dependencies
+
+#### Automatically enabled services
 
 * [servicedirectory.googleapis.com](../servicedirectory.googleapis.com/)
 
-### Reverse dependencies
+#### Reverse dependencies
 
 None

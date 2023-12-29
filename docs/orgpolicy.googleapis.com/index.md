@@ -1,10 +1,12 @@
 ## orgpolicy.googleapis.com
 
-### Automatically enabled services
+### Dependencies
+
+#### Automatically enabled services
 
 None
 
-### Reverse dependencies
+#### Reverse dependencies
 
 * [config.googleapis.com](../config.googleapis.com/)
 * [workloadmanager.googleapis.com](../workloadmanager.googleapis.com/)

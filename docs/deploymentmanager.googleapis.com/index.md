@@ -1,10 +1,12 @@
 ## deploymentmanager.googleapis.com
 
-### Automatically enabled services
+### Dependencies
+
+#### Automatically enabled services
 
 None
 
-### Reverse dependencies
+#### Reverse dependencies
 
 * [appengineflex.googleapis.com](../appengineflex.googleapis.com/)
 * [cloudprivatecatalog.googleapis.com](../cloudprivatecatalog.googleapis.com/)

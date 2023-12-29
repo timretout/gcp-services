@@ -1,10 +1,12 @@
 ## anthospolicycontroller.googleapis.com
 
-### Automatically enabled services
+### Dependencies
+
+#### Automatically enabled services
 
 None
 
-### Reverse dependencies
+#### Reverse dependencies
 
 * [anthosconfigmanagement.googleapis.com](../anthosconfigmanagement.googleapis.com/)
 * [config.googleapis.com](../config.googleapis.com/)

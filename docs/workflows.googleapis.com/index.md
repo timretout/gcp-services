@@ -1,9 +1,11 @@
 ## workflows.googleapis.com
 
-### Automatically enabled services
+### Dependencies
+
+#### Automatically enabled services
 
 * [workflowexecutions.googleapis.com](../workflowexecutions.googleapis.com/)
 
-### Reverse dependencies
+#### Reverse dependencies
 
 * [workflowexecutions.googleapis.com](../workflowexecutions.googleapis.com/)

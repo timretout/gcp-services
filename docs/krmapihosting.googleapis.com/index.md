@@ -1,6 +1,8 @@
 ## krmapihosting.googleapis.com
 
-### Automatically enabled services
+### Dependencies
+
+#### Automatically enabled services
 
 * [anthosconfigmanagement.googleapis.com](../anthosconfigmanagement.googleapis.com/)
 * [anthospolicycontroller.googleapis.com](../anthospolicycontroller.googleapis.com/)
@@ -26,7 +28,7 @@
 * [pubsub.googleapis.com](../pubsub.googleapis.com/)
 * [storage-api.googleapis.com](../storage-api.googleapis.com/)
 
-### Reverse dependencies
+#### Reverse dependencies
 
 * [config.googleapis.com](../config.googleapis.com/)
 * [workloadmanager.googleapis.com](../workloadmanager.googleapis.com/)

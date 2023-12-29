@@ -1,10 +1,12 @@
 ## iam.googleapis.com
 
-### Automatically enabled services
+### Dependencies
+
+#### Automatically enabled services
 
 * [iamcredentials.googleapis.com](../iamcredentials.googleapis.com/)
 
-### Reverse dependencies
+#### Reverse dependencies
 
 * [anthos.googleapis.com](../anthos.googleapis.com/)
 * [binaryauthorization.googleapis.com](../binaryauthorization.googleapis.com/)

@@ -1,10 +1,12 @@
 ## edgecache.googleapis.com
 
-### Automatically enabled services
+### Dependencies
+
+#### Automatically enabled services
 
 None
 
-### Reverse dependencies
+#### Reverse dependencies
 
 * [mesh.googleapis.com](../mesh.googleapis.com/)
 * [networkservices.googleapis.com](../networkservices.googleapis.com/)

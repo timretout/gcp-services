@@ -1,10 +1,12 @@
 ## artifactregistry.googleapis.com
 
-### Automatically enabled services
+### Dependencies
+
+#### Automatically enabled services
 
 None
 
-### Reverse dependencies
+#### Reverse dependencies
 
 * [anthos.googleapis.com](../anthos.googleapis.com/)
 * [appengineflex.googleapis.com](../appengineflex.googleapis.com/)

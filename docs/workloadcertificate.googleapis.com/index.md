@@ -1,6 +1,8 @@
 ## workloadcertificate.googleapis.com
 
-### Automatically enabled services
+### Dependencies
+
+#### Automatically enabled services
 
 * [artifactregistry.googleapis.com](../artifactregistry.googleapis.com/)
 * [autoscaling.googleapis.com](../autoscaling.googleapis.com/)
@@ -26,6 +28,6 @@
 * [pubsub.googleapis.com](../pubsub.googleapis.com/)
 * [storage-api.googleapis.com](../storage-api.googleapis.com/)
 
-### Reverse dependencies
+#### Reverse dependencies
 
 None

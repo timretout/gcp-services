@@ -1,10 +1,12 @@
 ## connectgateway.googleapis.com
 
-### Automatically enabled services
+### Dependencies
+
+#### Automatically enabled services
 
 None
 
-### Reverse dependencies
+#### Reverse dependencies
 
 * [edgecontainer.googleapis.com](../edgecontainer.googleapis.com/)
 * [meshconfig.googleapis.com](../meshconfig.googleapis.com/)
